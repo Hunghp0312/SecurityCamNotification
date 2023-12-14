@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710213305290",
+    "project_id": "warm-tangent-386614",
+    "storage_bucket": "warm-tangent-386614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710213305290:android:28267826aa0bbf7f058533",
+        "android_client_info": {
+          "package_name": "com.hunghp312.securitynotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-99E8xy1S87BT8JSUcJ-qLyhE9LeiSGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
